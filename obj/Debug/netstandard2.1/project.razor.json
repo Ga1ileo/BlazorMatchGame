@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": -123559887,
-        "Kind": "Components.Component",
-        "Name": "BlazorMatchGame.Pages.Index",
-        "AssemblyName": "BlazorMatchGame",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorMatchGame.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1126588689,
-        "Kind": "Components.Component",
-        "Name": "BlazorMatchGame.Pages.Index",
-        "AssemblyName": "BlazorMatchGame",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorMatchGame.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorMatchGame.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 655845336,
         "Kind": "Components.Component",
         "Name": "BlazorMatchGame.Pages.Counter",
@@ -140,6 +107,39 @@
         }
       },
       {
+        "HashCode": -123559887,
+        "Kind": "Components.Component",
+        "Name": "BlazorMatchGame.Pages.Index",
+        "AssemblyName": "BlazorMatchGame",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorMatchGame.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1126588689,
+        "Kind": "Components.Component",
+        "Name": "BlazorMatchGame.Pages.Index",
+        "AssemblyName": "BlazorMatchGame",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorMatchGame.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorMatchGame.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 625895992,
         "Kind": "Components.Component",
         "Name": "BlazorMatchGame.App",
@@ -169,92 +169,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorMatchGame.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -322815225,
-        "Kind": "Components.Component",
-        "Name": "BlazorMatchGame.Shared.NavMenu",
-        "AssemblyName": "BlazorMatchGame",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorMatchGame.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1984016173,
-        "Kind": "Components.Component",
-        "Name": "BlazorMatchGame.Shared.NavMenu",
-        "AssemblyName": "BlazorMatchGame",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorMatchGame.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorMatchGame.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 38530078,
-        "Kind": "Components.Component",
-        "Name": "BlazorMatchGame.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorMatchGame",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorMatchGame.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1800683389,
-        "Kind": "Components.Component",
-        "Name": "BlazorMatchGame.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorMatchGame",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorMatchGame.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorMatchGame.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -351,6 +265,92 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "BlazorMatchGame.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 38530078,
+        "Kind": "Components.Component",
+        "Name": "BlazorMatchGame.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorMatchGame",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorMatchGame.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1800683389,
+        "Kind": "Components.Component",
+        "Name": "BlazorMatchGame.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorMatchGame",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorMatchGame.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorMatchGame.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -322815225,
+        "Kind": "Components.Component",
+        "Name": "BlazorMatchGame.Shared.NavMenu",
+        "AssemblyName": "BlazorMatchGame",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorMatchGame.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1984016173,
+        "Kind": "Components.Component",
+        "Name": "BlazorMatchGame.Shared.NavMenu",
+        "AssemblyName": "BlazorMatchGame",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorMatchGame.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorMatchGame.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
