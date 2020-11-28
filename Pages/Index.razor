@@ -1,6 +1,7 @@
 ﻿@page "/"
 @page "/game"
 @using System.Timers
+@using BlazorMatchGame.Models
 
 <style>
     .container {
@@ -41,12 +42,16 @@
     <div class="row">
         <h2>Time: @timeDisplay</h2>
     </div>
+    <div class="row">
+        <h3>Nombre: <input @bind="nombre" /></h3>
+    </div>
 </div>
 
 
 
 
 @code{
+
     List<string> animalEmoji = new List<string>()
 {
         "🐶","🐶",
@@ -61,14 +66,18 @@
         "🐢","🐢",
     };
 
+
     List<string> shuffledAnimals = new List<string>();
     int matchesFound = 0;
     Timer timer;
     int tenthsOfSecoundsElapsed = 0;
     string timeDisplay;
+    string nombre= string.Empty;
+
 
     protected override void OnInitialized()
     {
+
         timer = new Timer(100);
         timer.Elapsed += Timer_Trick;
         SetupGame();
