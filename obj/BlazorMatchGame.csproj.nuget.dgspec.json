@@ -14,7 +14,7 @@
         "outputPath": "/Users/miguelgondres/Projects/BlazorMatchGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/miguelgondres/.nuget/NuGet/NuGet.Config"
+          "/Users/miguelgondres/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
